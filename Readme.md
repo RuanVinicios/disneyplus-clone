@@ -1,5 +1,5 @@
 # Disney+ Clone
-Com este mini-projeto você poderá praticar os seus conhecimentos de HTML, CSS e Javascript recriando a página inicial da plataforma de stream Disney+ .
+Este mini-projeto pratiquei os meus conhecimentos de HTML, CSS e Javascript recriando a página inicial da plataforma de stream Disney+ .
 
 Para iniciar, faça o fork deste repositório para a sua conta e, da sua conta no Github, clone os arquivos para a sua máquina local.
 
